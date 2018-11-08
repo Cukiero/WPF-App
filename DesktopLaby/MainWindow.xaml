@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DesktopLaby"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800"
+        xmlns:widoki="clr-namespace:DesktopLaby.Widoki">
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
@@ -63,22 +64,28 @@
             </StackPanel>
         </Grid>
         <Grid Grid.Row="1">
-            <StackPanel>
-                <ListBox Name="PeopleList" BorderThickness="0" 
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0">
+                    <ListBox Name="PeopleList" BorderThickness="0" 
                     ItemsSource="{Binding}">
-                    <ListBox.ItemTemplate>
-                        <DataTemplate>
-                            <TextBlock>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock>
                               <Run Text="{Binding Name}"/>
                               <Run Text="{Binding SurName}"/>
                               <Run Text="-"/>
                               <Run Text="{Binding BirthDate, StringFormat={}{0:dd/MM/yyyy}}"/>
-                            </TextBlock>
-                        </DataTemplate>
-                    </ListBox.ItemTemplate>
-                </ListBox>
-            </StackPanel>
-            
+                                </TextBlock>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </StackPanel>
+                <widoki:Widok1 Grid.Column="1"/>
+            </Grid>
         </Grid>
     </Grid>
 </Window>
