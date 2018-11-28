@@ -70,6 +70,7 @@
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
                 <StackPanel Grid.Column="0">
+                    <TextBlock Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center" Background="White" FontSize="22" Margin="10 10 10 10">Lista ludzi</TextBlock>
                     <ListBox Name="PeopleList" BorderThickness="0" 
                     ItemsSource="{Binding}">
                         <ListBox.ItemTemplate>

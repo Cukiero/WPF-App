@@ -49,3 +49,23 @@ C:\Users\mcichock\Documents\MyProjects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby
 C:\Users\mcichock\Documents\MyProjects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby.csproj.CoreCompileInputs.cache
 C:\Users\mcichock\Documents\MyProjects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby.exe
 C:\Users\mcichock\Documents\MyProjects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby.pdb
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\bin\Debug\DesktopLaby.exe.config
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\bin\Debug\DesktopLaby.exe
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\bin\Debug\DesktopLaby.pdb
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby.csprojAssemblyReference.cache
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\MainWindow.g.cs
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\Widoki\Widok1.g.cs
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\App.g.cs
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby_MarkupCompile.cache
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby_MarkupCompile.lref
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\MainWindow.baml
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\Resources\CustomButton.baml
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\Resources\CustomStyles.baml
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\Widoki\Widok1.baml
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby.g.resources
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby.Properties.Resources.resources
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby.csproj.GenerateResource.cache
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby.csproj.CoreCompileInputs.cache
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby.exe
+C:\Users\Cukier\Documents\My Projects\WPF-App\DesktopLaby\obj\Debug\DesktopLaby.pdb
